@@ -16,11 +16,11 @@ This repository contains a machine learning project for image classification usi
 ### Instructions
 
 1. Dependencies
-     ```
+     
    - Install the required Python libraries by executing the following command
-     ```
+```bash
      pip install pandas scikit-learn joblib numpy
-     ```
+```
 
 2. Dataset
    - Place `Images.csv` and `EdgeHistogram.csv` in the same directory.
